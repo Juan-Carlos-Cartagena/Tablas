@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Ventas</title>
+</head>
+<body> Reporte Ventas 
+<colgroup>
+</table>
+<head>
+<tr>
+<th>
+<td style="background-color: blue">Id</td>
+
+<td style="background-color: pink">Producto</td>
+<td style="background-color: green">Cantidad</td>
+<td style="background-color: brown">Valor Unitario</td>
+<td style="background-color: ocean blue">Total</td>
+</th>
+</head>
+<tr>
+<td>001</td>
+<td>Limón</td>
+<td>2</td>
+<td>1000</td>
+<td>2000</td>
+<tr>
+<td>002</td>
+<td>Manzana</td>
+<td>3</td>
+<td>2000</td>
+<td>6000</td>
+<tr>
+<td>003</td>
+<td>Naranja</td>
+<td>1500</td>
+<td>2</td>
+<td>300p</td>
+<table> 
+</colgroup>
+</body>
+</html>
